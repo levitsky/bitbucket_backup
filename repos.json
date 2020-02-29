@@ -1,0 +1,8 @@
+{
+    "levitsky/pyteomics": {
+        "project_file": "data/repositories/levitsky/pyteomics.json",
+        "project_path": "data/repositories/levitsky/pyteomics/",
+        "is_fork": false,
+        "github_repo": "https://github.com/levitsky/pyteomics"
+    }
+}

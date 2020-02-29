@@ -1,0 +1,1 @@
+{"pagelen": 100, "values": [{"type": "issue_attachment", "name": "example.mzid", "links": {"self": {"href": ["data/repositories/levitsky/pyteomics/issues/21/attachments/example.mzid"]}}}, {"type": "issue_attachment", "name": "example2.mzid", "links": {"self": {"href": ["data/repositories/levitsky/pyteomics/issues/21/attachments/example2.mzid"]}}}], "page": 1, "size": 2}
